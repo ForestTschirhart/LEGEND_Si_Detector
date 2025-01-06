@@ -1,0 +1,9 @@
+# Ignore all .lh5 files, or this repo would be huge
+*.lh5
+
+# Ignore the couple processed data files I renamed stupidly
+experiment_data/kammel_tests/processed/hole_front/
+experiment_data/kammel_tests/processed/hole_back/
+experiment_data/kammel_tests/processed/hole_pulse/
+experiment_data/kammel_tests/processed/150_alpha/
+experiment_data/kammel_tests/processed/150_pulse/
